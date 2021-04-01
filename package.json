@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kxs6629/brrBot/issues"
   },
-  "homepage": "https://github.com/kxs6629/brrBot#readme"
+  "homepage": "https://github.com/kxs6629/brrBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.2"
+  }
 }
