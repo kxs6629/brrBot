@@ -1,0 +1,23 @@
+{
+  "name": "brrbot",
+  "version": "1.0.0",
+  "description": "bot that makes funny noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxs6629/brrBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Ken Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kxs6629/brrBot/issues"
+  },
+  "homepage": "https://github.com/kxs6629/brrBot#readme"
+}
