@@ -10,4 +10,4 @@ Originally this was going to be a gag bot that would play a fart sound and leave
 ## ToDo
 * Add feedback that displays title of youtube video being played
 * Add pause and resume functionality for youtube video playback
-* Add queue functionality to queue
+* Add queue functionality to youtube playback
